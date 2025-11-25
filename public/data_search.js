@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const imageDisplay = document.getElementById('imageDisplay');
 
     // URL API yang Anda gunakan
-    const GSMARENA_API_BASE_URL = "https://api.varshade.biz.id/api/search/gsmarena";
+    const GSMARENA_API_BASE_URL = "/api/gsmarena";
 
     // Fungsi Utama: Mengambil dan Menampilkan Spesifikasi
     async function searchGsmArena(query) {
