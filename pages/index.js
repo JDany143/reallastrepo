@@ -1,0 +1,1 @@
+export default function Home() { return ( <div style={{ padding: 24 }}> <h1>Web Multifungsi</h1> <p>Halaman HTML lama masih dipakai.</p> <ul> <li><a href="/index.html">Beranda statis</a></li> <li><a href="/data_search.html">Pencarian GSMArena</a></li> </ul> </div> ); }
